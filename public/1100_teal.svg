@@ -1,0 +1,6 @@
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="40" rx="4" fill="#1A1A1A"/>
+  <text x="10" y="26" font-family="SF Mono, Monaco, monospace" font-size="14" font-weight="600" fill="#5D7A8A">1100</text>
+  <text x="55" y="26" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#9A9A9A">mile</text>
+  <text x="55" y="36" font-family="Inter, system-ui, sans-serif" font-size="10" fill="#9A9A9A">workday</text>
+</svg>
